@@ -17,7 +17,7 @@ The repository is aimed at helping learners understand Python programming throug
 - Functions – User-defined functions, lambda expressions, recursion.
 - Data Structures – Lists, tuples, sets, dictionaries.
 - File Handling – Reading and writing files.
-- Modules & Libraries – Using standard Python modules.
+- Modules & Libraries – Using standard Python modules.<br>
 Each assignment file includes:
 - Question description
 - Solution code
